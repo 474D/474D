@@ -1,13 +1,13 @@
 # Hi there, I am Gediminas 👋
 
-<p align="right">
-    <a href="https://www.linkedin.com/in/gediminas-malakauskas/">
+![Naxaliav](banner.png)
+
+<a href="https://www.linkedin.com/in/gediminas-malakauskas/">
     <img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.upwork.com/freelancers/~0105a9c34afd28f21d?viewMode=1">
+</a>
+<a href="https://www.upwork.com/freelancers/~0105a9c34afd28f21d?viewMode=1">
     <img src="https://img.shields.io/badge/-Upwork-2D2B55?style=flat-squaree&logo=upwork&logoColor=white%22"/>
-    </a>
-</p>
+</a>
 
 ## GitHub Stats
 
