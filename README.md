@@ -1,6 +1,6 @@
 # Hi there 👋, I am 
 
-![Naxaliav](banner.png)
+![474D](banner.png)
 
 <p>
 <a href="https://www.linkedin.com/in/gediminas-malakauskas/">
@@ -13,5 +13,5 @@
 </p>
 
 <a href="https://github.com/Naxaliav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naxaliav&show_icons=true&theme=shades-of-purple&count_private=true" alt="Naxaliav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=474D&show_icons=true&theme=shades-of-purple&count_private=true" alt="474D's GitHub Stats" />
 </a>
